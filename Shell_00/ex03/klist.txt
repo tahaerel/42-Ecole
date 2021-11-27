@@ -1,0 +1,5 @@
+Credentials cache: API:69FACF57-878B-41B4-9AC0-D77BD4137EB2
+        Principal: terel@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Aug 31 16:44:51 2021  Sep  1 02:44:51 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
